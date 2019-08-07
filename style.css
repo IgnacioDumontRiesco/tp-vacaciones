@@ -1,0 +1,43 @@
+body{
+	background-color: white
+}
+#cabecera{
+	width: 85%;
+	height: auto;
+	background-color: red;
+	margin-left: 6%;
+	padding: 29px;
+}
+#cabecera h1{
+	text-align: center;
+	color: white;
+}
+#info{
+	width: 87%;
+	height: auto;
+	background-color: white;
+	margin-left: 6%;
+	margin-top: 15px;
+	padding: 9px;
+	font-family: Arial;
+}
+.articulo{
+	width: 28%;
+	height: 170px;
+	background-color: #EEEEEE;
+	padding: 2%;
+	margin-left: 34%;
+	margin-top: 105px;
+
+}
+#pie{
+	clear: both;
+	width: 100%;
+	background-color: black;
+	color: red;
+	margin-top: 105px;
+	text-align: center;
+}
+a{
+	color: red;
+}
